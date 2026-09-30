@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Konwersja argumentów - wstęp": {
+      "commandName": "Project",
+      "commandLineArgs": "jacek marek"
+    }
+  }
+}
